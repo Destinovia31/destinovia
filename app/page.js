@@ -568,54 +568,6 @@ export default function Home() {
               (e.currentTarget.style.animationPlayState = "running")
             }
           >
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Anis".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Anis
-                </p>
-              </div>
-            </div>
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Adam".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Adam
-                </p>
-              </div>
-            </div>
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Matis".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Matis
-                </p>
-              </div>
-            </div>
             <ProfileCard
               name="Martin"
               description="To be honest, I was scared to trust someone else with my vision. But this team exceeded my expectations. They were super transparent, patient, and flexible throughout. They turned my vague idea into a functioning app. Check out what they built for me."
@@ -632,54 +584,6 @@ export default function Home() {
               name="Katie"
               description="Working with Madjid is an easy decision. He’s not just a hardworking developer but also a reliable partner who offers valuable advice and practical solutions. He’s saved me countless hours on technical tasks, allowing me to focus on growing my sales."
             />
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Anis".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Anis
-                </p>
-              </div>
-            </div>
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Adam".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Adam
-                </p>
-              </div>
-            </div>
-            <div className="flex flex-col justify-center p-6 gap-6 items-start bg-[#f9f9f9] border border-[#d9d9d9] rounded-lg md:w-[512px] min-h-[364px]  min-w-[256px]">
-              <iframe
-                src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-                allow="autoplay; fullscreen"
-                allowFullScreen
-                className="w-full h-full aspect-video rounded-md shadow-lg"
-              ></iframe>
-              <div className="w-fit flex justify-center items-center gap-4">
-                <div className="rounded-full bg-[#655dff] text-white w-12 h-12 flex justify-center items-center font-medium">
-                  {"Matis".charAt(0)}
-                </div>
-                <p className="text-[#023475] font-semibold md:text-base text-sm">
-                  Matis
-                </p>
-              </div>
-            </div>
             <ProfileCard
               name="Martin"
               description="To be honest, I was scared to trust someone else with my vision. But this team exceeded my expectations. They were super transparent, patient, and flexible throughout. They turned my vague idea into a functioning app. Check out what they built for me."
