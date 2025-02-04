@@ -146,8 +146,7 @@ export default function Home() {
           variants={video}
         >
           <iframe
-            src="https://player.vimeo.com/video/IDHERE?autoplay=1&muted=1&preload=auto&badge=0&autopause=0&player_id=0&app_id=58479"
-            allow="autoplay; fullscreen"
+src="https://www.youtube.com/embed/2v4aYZKUoRE?si=a93zLvdDO2zAZw3Q"            allow="autoplay; fullscreen"
             allowFullScreen
             className="w-[96%] sm:w-[96%] lg:w-[60%] aspect-video rounded-md shadow-lg"
           ></iframe>
